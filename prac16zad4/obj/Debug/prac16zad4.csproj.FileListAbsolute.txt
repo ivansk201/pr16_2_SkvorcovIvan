@@ -1,0 +1,10 @@
+C:\Users\305-5\Desktop\Skvortsovpr-22\prac16(zad3-4)\prac16zad4\bin\Debug\prac16zad4.exe.config
+C:\Users\305-5\Desktop\Skvortsovpr-22\prac16(zad3-4)\prac16zad4\bin\Debug\prac16zad4.exe
+C:\Users\305-5\Desktop\Skvortsovpr-22\prac16(zad3-4)\prac16zad4\bin\Debug\prac16zad4.pdb
+C:\Users\305-5\Desktop\Skvortsovpr-22\prac16(zad3-4)\prac16zad4\obj\Debug\prac16zad4.Form1.resources
+C:\Users\305-5\Desktop\Skvortsovpr-22\prac16(zad3-4)\prac16zad4\obj\Debug\prac16zad4.Properties.Resources.resources
+C:\Users\305-5\Desktop\Skvortsovpr-22\prac16(zad3-4)\prac16zad4\obj\Debug\prac16zad4.csproj.GenerateResource.cache
+C:\Users\305-5\Desktop\Skvortsovpr-22\prac16(zad3-4)\prac16zad4\obj\Debug\prac16zad4.csproj.CoreCompileInputs.cache
+C:\Users\305-5\Desktop\Skvortsovpr-22\prac16(zad3-4)\prac16zad4\obj\Debug\prac16zad4.exe
+C:\Users\305-5\Desktop\Skvortsovpr-22\prac16(zad3-4)\prac16zad4\obj\Debug\prac16zad4.pdb
+C:\Users\305-5\Desktop\Skvortsovpr-22\prac16(zad3-4)\prac16zad4\obj\Debug\prac16zad4.csproj.AssemblyReference.cache

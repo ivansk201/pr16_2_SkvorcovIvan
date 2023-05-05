@@ -1,0 +1,7 @@
+C:\Users\305-5\Desktop\Skvortsovpr-22\prac16(zad3-4)\prac16zad3\bin\Debug\prac16zad3.exe.config
+C:\Users\305-5\Desktop\Skvortsovpr-22\prac16(zad3-4)\prac16zad3\bin\Debug\prac16zad3.exe
+C:\Users\305-5\Desktop\Skvortsovpr-22\prac16(zad3-4)\prac16zad3\bin\Debug\prac16zad3.pdb
+C:\Users\305-5\Desktop\Skvortsovpr-22\prac16(zad3-4)\prac16zad3\obj\Debug\prac16zad3.csproj.AssemblyReference.cache
+C:\Users\305-5\Desktop\Skvortsovpr-22\prac16(zad3-4)\prac16zad3\obj\Debug\prac16zad3.csproj.CoreCompileInputs.cache
+C:\Users\305-5\Desktop\Skvortsovpr-22\prac16(zad3-4)\prac16zad3\obj\Debug\prac16zad3.exe
+C:\Users\305-5\Desktop\Skvortsovpr-22\prac16(zad3-4)\prac16zad3\obj\Debug\prac16zad3.pdb
